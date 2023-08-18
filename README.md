@@ -1,29 +1,32 @@
-# RPGabriel
+# NobilTwo
 
-## Aqui nos vamos criar o rpg do gabriel desde o 0 
+## About
+
+<!-- Formar Nobil na vertical -->
+- New dynamic solutions
+- Optimize the **Game Engine**
+- Beautiful code
+- Inteligent solutions
+- Leverage good code practices
 
 
-- 1 PASSO: ESTUDAR SOBRE COMO FAZER UMA ENGINE DE JOGO 2D
-- 2 PASSO: FAZER A ENGINE :) 
+OBS.: Important to have fun and learn :)
 
-
-OBS.: o passo 2 parece ser muito facil dá algo mais dificil. Ass.: Benno
-
-
-# Instructions_AND_Rules
+# Instructions and Rules
 
 ## GitHubFlow: 
 
-```
-Main -------------------------------------------
-Developement -----------------------------------
-Feature(optional) ------------------------------
-````
+>&nbsp;
+>```
+>Main -------------------------------------------
+>Developement -----------------------------------
+>Feature(optional) ------------------------------
+>```
+>&nbsp;
 
+- The `main` is the final product, the safe update.
 
-- A `main` é o produto final, o safe update.
+- `Developement` is where we will work most of the time. Where it involves the constant production of code. Represents the current state of the project.
 
-- O `Developement` é onde trabalharemos a maioria do tempo. Onde envolve a produção constante do codigo. Representa o estado atual do projeto.
-
-- O `Features` para incluir funcionalidades novas sem inferferir no trabalho principal da __Developement__. É onde trabalharemos em uma funcionalidade especifica ou em uma tarefa isolada. Após a conclusão daremos merge na __Developement__. <br>
-_**NOTA**_: usaremos tipo benno/engineLights3d  ou tipo gabriel/engineFisicsGelly
+- `Features` to include new features without interfering with __Developement__'s main work. It's where we'll work on a specific feature or on an isolated task. Upon completion we will merge into __Developement__. <br>
+_**NOTE**_: we will use type benno/engineLights3d or type gabriel/engineFisicsGelly
